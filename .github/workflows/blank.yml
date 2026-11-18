@@ -26,4 +26,3 @@ jobs:
         with:
           name: X3-TUNING-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-
